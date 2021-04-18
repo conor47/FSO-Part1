@@ -77,3 +77,4 @@ const Statistic = ({text, value, present}) => {
 
 export default App
 
+        
